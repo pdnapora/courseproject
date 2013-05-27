@@ -1,1 +1,3 @@
 here is the readme for our fictitious courseproject project
+
+and here is another bit of text...
